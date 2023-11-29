@@ -4,7 +4,7 @@ Code for our NeurIPS 2023 paper "[LART: Neural Correspondence Learning with Late
 This is the PyTorch implementation of our NeurIPS 2023 paper LART: Neural Correspondence Learning with Latent Regularization Transformer for 3D Motion Transfer.
 [Haoyu Chen](https://scholar.google.com/citations?user=QgbraMIAAAAJ&hl=en), [Hao Tang](https://github.com/Ha0Tang), [Radu Timofte](https://scholar.google.be/citations?user=u3MwH5kAAAAJ&hl=en), [Luc Van Gool](https://scholar.google.be/citations?user=TwMib_QAAAAJ&hl=en), [Guoying Zhao](https://scholar.google.com/citations?user=hzywrFMAAAAJ&hl=en). <br>
 
-<img src="lart.PNG" width="1000" height="260">
+<img src="lart.PNG" width="1000" height="280">
 
 #### Citation
 
